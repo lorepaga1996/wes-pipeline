@@ -1,1 +1,0 @@
-include { REPORT } from './variantfiltration'
